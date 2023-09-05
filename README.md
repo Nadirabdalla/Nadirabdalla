@@ -1,7 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h2>👨‍💻 Cybersecurity  Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/Nadirabdalla/LABURL)
+
+  -   - [Hello World! ](https://github.com/Nadirabdalla/LABURL)
+
+
+    
+  - <h2>Certification</h2>
+
+    - [Google Cybersecurity Professional Certificate](Picture)
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+  - [Tutorial Active Directory Home Lab](LABURL)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**Nadirabdalla/Nadirabdalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +35,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
